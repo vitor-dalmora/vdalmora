@@ -1,4 +1,4 @@
-<img width = "300px" height = "300px" align = "right" src="https://imgur.com/a/SgZZHgC" title="source: imgur.com"/>
+<img width = "300px" height = "300px" align = "right" src="https://imgur.com/a/SgZZHgC"/>
 
 "L'innovation est ce qui distingue un leader d'un suiveur."
 
