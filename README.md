@@ -1,5 +1,5 @@
-<img width = "300px" height = "300px" align = "right" src="https://imgur.com/a/SgZZHgC"/>
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/SgZZHgC"><a href="//imgur.com/SgZZHgC">Um cara aí..</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<img width = "300px" height = "300px" align = "right" src="https://i.imgur.com/HKu9yNc.png"/>
+
 
 "L'innovation est ce qui distingue un leader d'un suiveur."
 
