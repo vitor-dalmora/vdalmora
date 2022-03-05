@@ -28,10 +28,8 @@ Skills I am <b>Learning</b>:
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitor-dalmora&layout=compact&langs_count=7&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitor-dalmora&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/></a>
 </div>
-  
- ![Snake animation](https://github.com/vitor-dalmora/vitor-dalmora/blob/output/github-contribution-grid-snake.svg)
-  
-   <p align="center"><strong> Visits </strong> since 01/27/22 :detective: <br>
+    
+   <p align="center"><strong> Visits </strong> :detective: <br>
 <p align="center"> 
    <img alingn="center" src="https://profile-counter.glitch.me/vitor-dalmora/count.svg" />
 </p> 
