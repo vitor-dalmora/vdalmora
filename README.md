@@ -1,4 +1,4 @@
-<img width = "300px" height = "300px" align = "right" src="https://i.imgur.com/HKu9yNc.png"/>
+<img width = "300px" height = "300px" align = "right" src="https://www.crushpixel.com/big-static18/preview4/vector-laptop-coding-concept-web-2785733.jpg"/>
 
 
 "L'innovation est ce qui distingue un leader d'un suiveur."
